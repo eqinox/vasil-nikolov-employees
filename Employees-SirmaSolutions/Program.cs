@@ -49,6 +49,7 @@ namespace Employees_SirmaSolutions
                         newPair.secondEmployee = employees[index].id;
                         DateTime firstMatchDate = GetFirstMatchDate(employees[i].dateFrom, employees[index].dateFrom);
                         DateTime lastMatchDate = GetLastMatchDate(employees[i].dateTo, employees[index].dateTo);
+
                         if (lastMatchDate > firstMatchDate)
                         {
                             long totalTimeWorkTogether = (lastMatchDate - firstMatchDate).Ticks;
