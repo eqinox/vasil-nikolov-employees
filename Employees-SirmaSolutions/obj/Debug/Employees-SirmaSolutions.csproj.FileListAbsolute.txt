@@ -1,0 +1,7 @@
+C:\Users\vasko\source\repos\Employees-SirmaSolutions\Employees-SirmaSolutions\bin\Debug\Employees-SirmaSolutions.exe.config
+C:\Users\vasko\source\repos\Employees-SirmaSolutions\Employees-SirmaSolutions\bin\Debug\Employees-SirmaSolutions.exe
+C:\Users\vasko\source\repos\Employees-SirmaSolutions\Employees-SirmaSolutions\bin\Debug\Employees-SirmaSolutions.pdb
+C:\Users\vasko\source\repos\Employees-SirmaSolutions\Employees-SirmaSolutions\obj\Debug\Employees-SirmaSolutions.csprojResolveAssemblyReference.cache
+C:\Users\vasko\source\repos\Employees-SirmaSolutions\Employees-SirmaSolutions\obj\Debug\Employees-SirmaSolutions.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Employees-SirmaSolutions\Employees-SirmaSolutions\obj\Debug\Employees-SirmaSolutions.exe
+C:\Users\vasko\source\repos\Employees-SirmaSolutions\Employees-SirmaSolutions\obj\Debug\Employees-SirmaSolutions.pdb
