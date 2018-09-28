@@ -86,6 +86,8 @@ namespace Employees_SirmaSolutions
             TimeSpan time = new TimeSpan(maxTime);
 
             Console.WriteLine("the pair of employees who have worked longest time on common projects are {0} and {1} with {2} days", firstEmployee, secondEmployee, time.Days);
+            Console.WriteLine("Press Enter to continue");
+            Console.ReadLine();
         }
 
         private static DateTime GetLastMatchDate(DateTime dateTo1, DateTime dateTo2)
